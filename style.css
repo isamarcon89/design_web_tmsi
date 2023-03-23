@@ -1,0 +1,12 @@
+h1{
+    color: pink;
+    font-size: 28px;
+    text-align: center;
+ }
+ body{
+    background-color: floralwhite;
+ }
+ p, ol, ul, h5, table{
+    color: black;
+   font-weight: bold;
+ }
